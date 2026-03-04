@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PDF to Word</string>
+    <string name="app_subtitle">Convert PDF files to Word documents (.docx)</string>
+    <string name="select_pdf_button">Select PDF File</string>
+    <string name="convert_button">Convert to Word (.docx)</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="selected_file_label">SELECTED FILE</string>
+    <string name="converting">Converting, please wait…</string>
+    <string name="conversion_success">Conversion successful!</string>
+    <string name="conversion_error">Conversion failed: %1$s</string>
+    <string name="output_saved">Output saved to: %1$s</string>
+    <string name="share_button">Share Word Document</string>
+    <string name="permission_required">Storage permission is required to save the converted file.</string>
+    <string name="error_reading_pdf">Could not read the selected PDF file.</string>
+    <string name="error_empty_pdf">The PDF appears to have no readable text content.</string>
+</resources>
